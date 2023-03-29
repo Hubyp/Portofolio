@@ -8,7 +8,7 @@
     "dev": "nodemon ."
   },
   "keywords": [],
-  "author": "Sev6n",
+  "author": "Hubyp",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^13.3.1",
